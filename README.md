@@ -2,8 +2,8 @@
 <h2 align="center">📸 Kết quả hiển thị</h2>
 <div align="center">
   <p><strong>Ảnh cam tươi trên web:</strong></p>
-  <img src="main.jpg" alt="màn hình điền thông tin" width="50%">
+  <img src="main.jpg" alt="màn hình điền thông tin" width="30%">
   
   <p><strong>Ảnh cam hỏng được cảnh báo:</strong></p>
-  <img src="ketqua.jpg" alt="Kết quả tính toán" width="50%">
+  <img src="ketqua.jpg" alt="Kết quả tính toán" width="30%">
 </div>
