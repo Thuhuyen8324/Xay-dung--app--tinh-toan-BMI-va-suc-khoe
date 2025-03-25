@@ -20,7 +20,7 @@
   &nbsp;&nbsp;&bull; cloud_firestore: ^5.6.5.<br>
   &nbsp;&nbsp;&bull; pretty_gauge: ^1.0.1.<br>
   &nbsp;&nbsp;&bull; share_plus: ^4.0.4.<br>
-  <strong>1. Code chính sẽ ở bên trong thu mục lib </strong><br>
+  <strong>2. Code chính sẽ ở bên trong thu mục lib </strong><br>
   &nbsp;&nbsp;&bull; main.<br>
   &nbsp;&nbsp;&bull; score_screen ^4.0.4.<br>
   
