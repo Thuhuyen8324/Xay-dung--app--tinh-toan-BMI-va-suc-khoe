@@ -1,5 +1,7 @@
- 
+<h1 align="center">
 📌 Xây dựng ứng dụng Flutter tính chỉ số BMI 👩‍⚕️
+</h1> 
+
 <h2 align="center">📸 Kết quả hiển thị</h2>
 <div align="center">
  
