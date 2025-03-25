@@ -5,5 +5,5 @@
   <img src="REDMI/anhcamtuoi.jpg" alt="Ảnh cam tươi" width="100%">
   
   <p><strong>Ảnh cam hỏng được cảnh báo:</strong></p>
-  <img src="REDMI/anhcamhong.jpg" alt="Ảnh cam hỏng" width="100%">
+  <img src="ketqua.jpg" alt="Kết quả tính toán" width="100%">
 </div>
